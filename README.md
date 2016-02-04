@@ -3,9 +3,9 @@ A package of webcrawlers that crawls websites that publish CVEs, exploits, docum
 
 Author: TWA - Third World Attacker - @twattacker
 
-All crawlers are made using Scrapy framework
+All crawlers are made using Scrapy framework, so you need to check out Scrapy doc to see how works.
 
-OBS: Put the TOKEN of your profile/page on the code, so the crawler you post in your page (Is comented on the code where you should put the token)
+OBS: Put the TOKEN of your profile/page on the crawler's code, so the crawler can post in your page (Is comented on the code where you should put the token)
 
 Any sugestions:
 
