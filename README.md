@@ -5,6 +5,8 @@ Author: TWA - Third World Attacker - @twattacker
 
 All crawlers are made using Scrapy framework
 
+OBS: Put the TOKEN of your profile/page on the code, so the crawler you post in your page (Is comented on the code where you should put the token)
+
 Any sugestions:
 
 Emails: mozambique@protonmail.ch / dnl31337@gmail.com
